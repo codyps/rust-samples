@@ -2,5 +2,6 @@
 name = "macro_adjacent"
 version = "0.1.0"
 authors = ["Cody P Schafer <dev@codyps.com>"]
+publish = false
 
 [dependencies]
